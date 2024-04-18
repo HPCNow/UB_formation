@@ -1,4 +1,4 @@
-# 202407UB-HPC Workshop
+# 2024-04-UB-HPC Workshop
 ```
 Contact: erica.bianco@hpcnow.com, danilo.gonzalez@hpcnow.com
 ```
